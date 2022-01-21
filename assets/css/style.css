@@ -1,0 +1,61 @@
+body{
+    background-color: black;
+    font-family: 'Raleway', sans-serif;
+}
+.miNavbar{
+    position: absolute;
+    z-index: 1;
+    width: 100%;
+}
+.textoBlanco{
+    color: #FFFFFF;
+    font-weight: 400;
+}
+.padding{
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+}
+.paddingIcono{
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+}
+.paddingFooter{
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+}
+hr{
+    color: #000000;
+}
+.card-img-top{
+    height: 12rem;
+    width: auto;
+}
+.card{
+    background-color: #0DCAF0;
+}
+#viajes{
+    font-size: 1.9rem;
+    font-weight: 500;
+}
+#navbarNav{
+    font-size: 1.2rem;
+    font-weight: 400;
+}
+#fondoIconos{
+    background-color: #0DCAF0;
+}
+.fab{
+    padding-left: 1rem;
+}
+#quienesSomos{
+    padding-top: 2rem;
+    padding-bottom: 3rem;
+}
+#destacados{
+    padding-top: 2rem;
+    padding-bottom: 1rem;
+}
+#contacto{
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
